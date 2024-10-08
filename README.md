@@ -34,7 +34,3 @@ Siga este guia para configurar o ambiente Tex no Visual Studio Code (VSC) e trab
 
 8. **Experiência Similar ao Overleaf**
    - Para uma experiência similar ao Overleaf, mantenha o arquivo `fatec-template.tex` aberto no lado esquerdo da tela e o arquivo `fatec-template.pdf` aberto no lado direito. Assim, você pode visualizar as mudanças em tempo real enquanto edita o documento.
-
----
-
-Agora você está pronto para trabalhar com Tex no Visual Studio Code usando o template FATEC!
