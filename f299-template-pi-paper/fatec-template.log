@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.7)  5 NOV 2024 00:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.7)  5 NOV 2024 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1262,21 +1262,21 @@ Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 3.
 
  <./Illustrations/fatec.jpg>] [2]) (Topicos/objetivo.tex) (Topicos/estadodaarte.tex [3]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 4.
 ) (Topicos/metodologia.tex) (Topicos/resultados.tex [4]
 Package hyperref Info: bookmark level for unknown graph defaults to 0 on input line 14.
-<./Illustrations/grph-example.png, id=101, 176.076pt x 135.999pt>
+<./Illustrations/grph-example.png, id=72, 176.076pt x 135.999pt>
 File: ./Illustrations/grph-example.png Graphic file (type png)
 <use ./Illustrations/grph-example.png>
 Package pdftex.def Info: ./Illustrations/grph-example.png  used on input line 16.
 (pdftex.def)             Requested size: 348.26233pt x 269.0132pt.
 Package hyperref Info: bookmark level for unknown flowchart defaults to 0 on input line 24.
-<./Illustrations/fcht-ex-algorithm.png, id=104, 736.7525pt x 1384.17125pt>
+<./Illustrations/fcht-ex-algorithm.png, id=75, 736.7525pt x 1384.17125pt>
 File: ./Illustrations/fcht-ex-algorithm.png Graphic file (type png)
 <use ./Illustrations/fcht-ex-algorithm.png>
 Package pdftex.def Info: ./Illustrations/fcht-ex-algorithm.png  used on input line 26.
 (pdftex.def)             Requested size: 294.69577pt x 553.6587pt.
-<example-image-duck.pdf, id=106, 184.55048pt x 114.2107pt>
+<example-image-duck.pdf, id=77, 184.55048pt x 114.2107pt>
 File: example-image-duck.pdf Graphic file (type pdf)
 <use example-image-duck.pdf>
 Package pdftex.def Info: example-image-duck.pdf  used on input line 36.
@@ -1286,7 +1286,7 @@ Package pdftex.def Info: example-image-duck.pdf  used on input line 36.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package hyperref Info: bookmark level for unknown photograph defaults to 0 on input line 45.
-<Illustrations/fachada-fatec.jpg, id=108, 1003.75pt x 735.74875pt>
+<Illustrations/fachada-fatec.jpg, id=79, 1003.75pt x 735.74875pt>
 File: Illustrations/fachada-fatec.jpg Graphic file (type jpg)
 <use Illustrations/fachada-fatec.jpg>
 Package pdftex.def Info: Illustrations/fachada-fatec.jpg  used on input line 47.
@@ -1296,7 +1296,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./Illustrations/grph-example.png (PNG copy)>] [6 <./Illustrations/fcht-ex-algorithm.png>]
 Package hyperref Info: bookmark level for unknown tabframed defaults to 0 on input line 84.
- [7 <C:/Users/Arthur/AppData/Local/Programs/MiKTeX/tex/latex/duckuments/example-image-duck.pdf> <./Illustrations/fachada-fatec.jpg>]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 117.
  (C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1305,7 +1304,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (Topicos/conclusao.tex) [8{C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+ [7 <C:/Users/Arthur/AppData/Local/Programs/MiKTeX/tex/latex/duckuments/example-image-duck.pdf> <./Illustrations/fachada-fatec.jpg>]) (Topicos/conclusao.tex) [8{C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76.
  (C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1333,17 +1332,17 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34241 strings out of 474486
- 620814 string characters out of 5743283
- 1948542 words of memory out of 5000000
- 55839 multiletter control sequences out of 15000+600000
- 616144 words of font info for 163 fonts, out of 8000000 for 9000
+ 34172 strings out of 474486
+ 619254 string characters out of 5743283
+ 1946542 words of memory out of 5000000
+ 55793 multiletter control sequences out of 15000+600000
+ 614969 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,1872b,4558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (9 pages, 617117 bytes).
+Output written on fatec-template.pdf (9 pages, 606833 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 24106 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 23082 words of extra memory for PDF output out of 24883 (max. 10000000)
 

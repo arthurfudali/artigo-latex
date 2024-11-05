@@ -429,9 +429,6 @@ INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
 INPUT Topicos\resultados.tex
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT .\Illustrations\grph-example.png
 INPUT .\Illustrations\grph-example.png
 INPUT .\Illustrations\grph-example.png
@@ -474,6 +471,9 @@ INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmia
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
@@ -489,8 +489,6 @@ INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx1
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt9.tfm
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt8.tfm
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out

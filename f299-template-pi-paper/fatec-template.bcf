@@ -2451,25 +2451,14 @@
     <bcf:citekey order="5" intorder="2">VIEIRA2019</bcf:citekey>
     <bcf:citekey order="6" intorder="1">BELISIARIO2023</bcf:citekey>
     <bcf:citekey order="6" intorder="2">VIEIRA2019</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">smith:99</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Alencar2007</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">Beltrano2021</bcf:citekey>
-    <bcf:citekey order="8" intorder="3">Fulano2021</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">Ramos2003</bcf:citekey>
-    <bcf:citekey order="9" intorder="2">Carvalho2004</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Ramos2003</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">Carvalho2004</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Andujar2006</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Kalakota2002</bcf:citekey>
-    <bcf:citekey order="12" intorder="2">Purcidonio2008</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Kalakota2002</bcf:citekey>
-    <bcf:citekey order="13" intorder="2">Purcidonio2008</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">knuth:84</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">boulic:91</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Beltrano2021</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Beltrano2021</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Beltrano2021</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Beltrano2021</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">GEORGES2016</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">GEORGES2016</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">knuth:84</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">boulic:91</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Beltrano2021</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Beltrano2021</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Beltrano2021</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Beltrano2021</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
