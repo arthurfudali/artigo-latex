@@ -345,11 +345,6 @@ INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\englis
 INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT fatec-template.bcf
-INPUT fatec-template.bbl
-INPUT .\fatec-template.bbl
-INPUT .\fatec-template.bbl
-INPUT .\fatec-template.bbl
-INPUT fatec-template.bbl
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out
 INPUT fatec-template.out
@@ -425,7 +420,6 @@ INPUT .\Topicos\estadodaarte.tex
 INPUT .\Topicos\estadodaarte.tex
 INPUT .\Topicos\estadodaarte.tex
 INPUT Topicos\estadodaarte.tex
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmsso12.tfm
 INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
@@ -532,10 +526,6 @@ INPUT .\Topicos\conclusao.tex
 INPUT .\Topicos\conclusao.tex
 INPUT .\Topicos\conclusao.tex
 INPUT Topicos\conclusao.tex
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out
@@ -549,7 +539,3 @@ INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.p
 INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.pfb
 INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsso12.pfb
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsso12.pfb
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
-INPUT C:\Users\giova\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
