@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1730781487.80823 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1730781501.5397 0
+["biber fatec-template"] 1730829171.91816 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1730829182.26013 0
   "fatec-article.bib" 1730781391 8098 79af2a5c0ba69e9edf4811f4f313020c ""
-  "fatec-template.bcf" 1730781501 113717 f89ec3faee3f7cdd40ae0511fc6529b7 "pdflatex"
+  "fatec-template.bcf" 1730829181 113847 da3da8b4590c09137f30ee1d48e38441 "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1730781497.76457 "c:/Users/Arthur/Documents/estudos/artigo-latex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1730781501.54061 0
+["pdflatex"] 1730829178.36058 "c:/Users/Arthur/Documents/estudos/artigo-latex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1730829182.26109 0
   "C:/Users/Arthur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728307531 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/Arthur/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728307235 24225518 56ee6872b3fc8791ed85731220e87b43 ""
   "C:/Users/Arthur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -210,17 +210,17 @@
   "Illustrations/fcht-ex-algorithm.png" 1730746299 45000 68d5c4daf91fc22a475d261af87c38f8 ""
   "Illustrations/grph-example.png" 1730746299 121228 5dc7886e5c9db312ecad87e0cb5a900c ""
   "Topicos/conclusao.tex" 1730746299 240 0ed91c82127ac9578dd3ad1d79586f13 ""
-  "Topicos/estadodaarte.tex" 1730781483 2670 7beed9c67ff0758cdbb485db66e7e583 ""
+  "Topicos/estadodaarte.tex" 1730829173 5160 501dd4f6df27678bc11ed7a7ad50242c ""
   "Topicos/introducao.tex" 1730746299 5954 ea442fe2fd802cf9432270bbbeae86c6 ""
   "Topicos/metodologia.tex" 1730746299 789 a85d0244cbc129142f00d7a47a6f6730 ""
   "Topicos/objetivo.tex" 1730746299 1744 2c8b7108ca7293c456718efe2e7e2602 ""
   "Topicos/resultados.tex" 1730746299 7523 a70f7264d810d0204f90b0281a2cdec0 ""
   "c:/Users/Arthur/Documents/estudos/artigo-latex/f299-template-pi-paper/fatec-template.tex" 1730778196 5530 4c85284bec98f3b83772405ebedf451e ""
   "fatec-article.sty" 1730746299 46741 e995b8fd528d0fd725971ccc75c6ce07 ""
-  "fatec-template.aux" 1730781500 5703 272e0e9e817c8203d6da02cbbebda603 "pdflatex"
-  "fatec-template.bbl" 1730781490 14622 fdaf2a9b5347725d41040a32fb4631a1 "biber fatec-template"
-  "fatec-template.out" 1730781501 236 f6375376201b9393b07fa1e3c38c66bd "pdflatex"
-  "fatec-template.run.xml" 1730781501 2582 c07b79b66b32fdcba7a5d386824131bd "pdflatex"
+  "fatec-template.aux" 1730829181 5934 1734b0304f216f44b400d662e8f0a1b3 "pdflatex"
+  "fatec-template.bbl" 1730829174 17407 c153b3ef37f6041f24ec9519f8cf2c1f "biber fatec-template"
+  "fatec-template.out" 1730829181 236 f6375376201b9393b07fa1e3c38c66bd "pdflatex"
+  "fatec-template.run.xml" 1730829181 2582 c07b79b66b32fdcba7a5d386824131bd "pdflatex"
   "fatec-template.tex" 1730778196 5530 4c85284bec98f3b83772405ebedf451e ""
   (generated)
   "fatec-template.aux"

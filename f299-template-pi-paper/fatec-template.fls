@@ -462,6 +462,13 @@ INPUT .\Topicos\conclusao.tex
 INPUT .\Topicos\conclusao.tex
 INPUT .\Topicos\conclusao.tex
 INPUT Topicos\conclusao.tex
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
@@ -482,13 +489,6 @@ INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-R
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\Arthur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out

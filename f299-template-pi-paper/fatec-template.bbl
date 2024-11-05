@@ -299,6 +299,74 @@
       \verb https://sc.movimentoods.org.br/agenda-2030/
       \endverb
     \endentry
+    \entry{SOUZA2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8a637e0a3fa04ad5d0e3488d534f1b5f}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Kennedy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdc02755eccefe5146320c464915c3a3}{%
+           family={Aviz},
+           familyi={A\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8936b1b0d3deea40cc83e3caf1dddf5}{%
+           family={Mello},
+           familyi={M\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c671154337e33e63132e39d0f04299a}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Karla},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79936d40dbf229e5d337843800910539}{%
+           family={Vellasco},
+           familyi={V\bibinitperiod},
+           given={Marley},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb7a4393de31ce856f9c6674ff9ad53}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3309b7838c510fc69eb230ae6a242847}{%
+           family={Seruffo},
+           familyi={S\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4be7cec4fe0d745fc73a5ae82638953}
+      \strng{fullhash}{c8b4a7aea1b48e9f5ee78c76e7298ba0}
+      \strng{bibnamehash}{e4be7cec4fe0d745fc73a5ae82638953}
+      \strng{authorbibnamehash}{e4be7cec4fe0d745fc73a5ae82638953}
+      \strng{authornamehash}{e4be7cec4fe0d745fc73a5ae82638953}
+      \strng{authorfullhash}{c8b4a7aea1b48e9f5ee78c76e7298ba0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Human-Computer Interaction}
+      \field{month}{08}
+      \field{title}{An Evaluation Framework for User Experience Using Eye Tracking, Mouse Tracking, Keyboard Input, and Artificial Intelligence: A Case Study}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/10447318.2021.1960092
+      \endverb
+    \endentry
     \entry{VIEIRA2019}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc632e4902b2ae00a6f60446f04ada60}{%

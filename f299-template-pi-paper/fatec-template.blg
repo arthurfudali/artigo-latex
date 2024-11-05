@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'fatec-template.blg'
-[106] biber-MSWIN64:340> INFO - === 
-[140] Biber.pm:419> INFO - Reading 'fatec-template.bcf'
-[258] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
-[273] Biber.pm:4419> INFO - Processing section 0
-[285] Biber.pm:4610> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
-[328] bibtex.pm:1713> INFO - LaTeX decoding ...
-[357] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
-[453] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[454] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[454] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[454] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
-[467] bbl.pm:660> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
-[472] bbl.pm:763> INFO - Output to fatec-template.bbl
+[116] biber-MSWIN64:340> INFO - === 
+[151] Biber.pm:419> INFO - Reading 'fatec-template.bcf'
+[268] Biber.pm:979> INFO - Found 9 citekeys in bib section 0
+[284] Biber.pm:4419> INFO - Processing section 0
+[299] Biber.pm:4610> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
+[336] bibtex.pm:1713> INFO - LaTeX decoding ...
+[363] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
+[474] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[474] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[474] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[474] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[489] bbl.pm:660> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
+[496] bbl.pm:763> INFO - Output to fatec-template.bbl
