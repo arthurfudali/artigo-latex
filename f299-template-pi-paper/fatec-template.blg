@@ -1,17 +1,5 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [1] Config.pm:310> INFO - Logfile is 'fatec-template.blg'
-[197] biber-MSWIN64:340> INFO - === 
-[259] Biber.pm:419> INFO - Reading 'fatec-template.bcf'
-[474] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
-[498] Biber.pm:4419> INFO - Processing section 0
-[520] Biber.pm:4610> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
-[632] bibtex.pm:1713> INFO - LaTeX decoding ...
-[690] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
-[899] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[899] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[899] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[899] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
-[932] bbl.pm:660> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
-[949] bbl.pm:763> INFO - Output to fatec-template.bbl
-[950] Biber.pm:131> WARN - Duplicate entry key: 'Amazon' in file 'fatec-article.bib', skipping ...
-[950] Biber.pm:133> INFO - WARNINGS: 1
+[234] biber-MSWIN64:340> INFO - === 
+[342] Utils.pm:410> ERROR - fatec-template.bcf is malformed, last biblatex run probably failed. Deleted fatec-template.bbl
+[343] Biber.pm:136> INFO - ERRORS: 1
