@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  5 NOV 2024 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  14 NOV 2024 15:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,13 +1183,12 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `fatec-template.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'fatec-template.bbl' not found.
-
-No file fatec-template.bbl.
+Package biblatex Info: ... file 'fatec-template.bbl' found.
+ (fatec-template.bbl)
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
 Package hyperref Info: Link coloring ON on input line 47.
-(fatec-template.out) (fatec-template.out)
+ (fatec-template.out) (fatec-template.out)
 \@outlinefile=\write4
 \openout4 = `fatec-template.out'.
 
@@ -1270,203 +1269,203 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 47.
 Package cleveref Info: loaded `english' language definitions on input line 47.
 Package cleveref Info: loaded `brazilian' language definitions on input line 47.
  (Topicos/introducao.tex
-
-LaTeX Warning: Citation 'ODS2024' on page 1 undefined on input line 2.
-
-<./Illustrations/fatec.jpg, id=11, 401.5pt x 401.5pt>
+<./Illustrations/fatec.jpg, id=13, 401.5pt x 401.5pt>
 File: ./Illustrations/fatec.jpg Graphic file (type jpg)
 <use ./Illustrations/fatec.jpg>
 Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 3.
 (pdftex.def)             Requested size: 99.58444pt x 99.58464pt.
-[1{C:/Users/giova/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
+ [1{C:/Users/giova/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
- <./Illustrations/fatec.jpg>]
-
-LaTeX Warning: Citation 'EBAC' on page 2 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'BELISIARIO2023' on page 2 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'VIEIRA2019' on page 2 undefined on input line 19.
-
-[2]) (Topicos/objetivo.tex [3]) (Topicos/estadodaarte.tex
-
-LaTeX Warning: Citation 'GEORGES2016' on page 4 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'SOUZA2021' on page 4 undefined on input line 14.
-
-[4]) (Topicos/metodologia.tex [5]
-
-LaTeX Warning: Citation 'Amazon' on page 6 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Amazon' on page 6 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Akira' on page 6 undefined on input line 23.
-
-[6]
-
-LaTeX Warning: Citation 'Amazon' on page 7 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'DNC' on page 7 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Alura' on page 7 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'TOTVS' on page 7 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Magalhães' on page 7 undefined on input line 41.
-
-) (Topicos/resultados.tex [7]
+ <./Illustrations/fatec.jpg>] [2]) (Topicos/objetivo.tex [3]) (Topicos/estadodaarte.tex
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 4.
+ [4]) (Topicos/metodologia.tex [5] [6] [7]) (Topicos/resultados.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
-
-
-LaTeX Warning: Citation 'Lucidchart' on page 8 undefined on input line 6.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-Package hyperref Info: bookmark level for unknown photograph defaults to 0 on input line 17.
-<Illustrations/classes1.png, id=68, 1350.54562pt x 546.54187pt>
+<Illustrations/classes1.png, id=110, 1350.54562pt x 546.54187pt>
 File: Illustrations/classes1.png Graphic file (type png)
 <use Illustrations/classes1.png>
-Package pdftex.def Info: Illustrations/classes1.png  used on input line 19.
+Package pdftex.def Info: Illustrations/classes1.png  used on input line 18.
 (pdftex.def)             Requested size: 348.26233pt x 140.93pt.
-<Illustrations/classes2.png, id=69, 1320.43312pt x 542.77782pt>
+[8]
+<Illustrations/classes2.png, id=120, 1320.43312pt x 542.77782pt>
 File: Illustrations/classes2.png Graphic file (type png)
 <use Illustrations/classes2.png>
-Package pdftex.def Info: Illustrations/classes2.png  used on input line 31.
+Package pdftex.def Info: Illustrations/classes2.png  used on input line 28.
 (pdftex.def)             Requested size: 348.26233pt x 143.1563pt.
-[8 <./Illustrations/classes1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<Illustrations/objetos1.png, id=77, 1307.63531pt x 493.0922pt>
+<Illustrations/objetos1.png, id=121, 1307.63531pt x 493.0922pt>
 File: Illustrations/objetos1.png Graphic file (type png)
 <use Illustrations/objetos1.png>
-Package pdftex.def Info: Illustrations/objetos1.png  used on input line 50.
+Package pdftex.def Info: Illustrations/objetos1.png  used on input line 45.
 (pdftex.def)             Requested size: 348.26233pt x 131.3234pt.
-<Illustrations/objetos2.png, id=78, 1335.48938pt x 475.7775pt>
+[9 <./Illustrations/classes1.png> <./Illustrations/classes2.png>]
+<Illustrations/objetos2.png, id=131, 1335.48938pt x 475.7775pt>
 File: Illustrations/objetos2.png Graphic file (type png)
 <use Illustrations/objetos2.png>
-Package pdftex.def Info: Illustrations/objetos2.png  used on input line 62.
+Package pdftex.def Info: Illustrations/objetos2.png  used on input line 55.
 (pdftex.def)             Requested size: 348.26233pt x 124.06947pt.
-[9 <./Illustrations/classes2.png> <./Illustrations/objetos1.png>]
 
-LaTeX Warning: Citation 'Amazon' on page 10 undefined on input line 72.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<Illustrations/tela1.png, id=89, 1565.85pt x 1382.16376pt>
+<Illustrations/tela1.png, id=135, 1565.85pt x 1382.16376pt>
 File: Illustrations/tela1.png Graphic file (type png)
 <use Illustrations/tela1.png>
-Package pdftex.def Info: Illustrations/tela1.png  used on input line 82.
+Package pdftex.def Info: Illustrations/tela1.png  used on input line 73.
 (pdftex.def)             Requested size: 348.26233pt x 307.3881pt.
-[10 <./Illustrations/objetos2.png>]
-<Illustrations/tela2.png, id=100, 1565.85pt x 1139.25626pt>
+[10 <./Illustrations/objetos1.png> <./Illustrations/objetos2.png>]
+<Illustrations/tela2.png, id=148, 1565.85pt x 1139.25626pt>
 File: Illustrations/tela2.png Graphic file (type png)
 <use Illustrations/tela2.png>
-Package pdftex.def Info: Illustrations/tela2.png  used on input line 94.
+Package pdftex.def Info: Illustrations/tela2.png  used on input line 83.
 (pdftex.def)             Requested size: 348.26233pt x 253.36638pt.
  [11 <./Illustrations/tela1.png>]
-<Illustrations/tela3.png, id=108, 1565.85pt x 1027.84pt>
+<Illustrations/tela3.png, id=156, 1565.85pt x 1027.84pt>
 File: Illustrations/tela3.png Graphic file (type png)
 <use Illustrations/tela3.png>
-Package pdftex.def Info: Illustrations/tela3.png  used on input line 106.
+Package pdftex.def Info: Illustrations/tela3.png  used on input line 93.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
-<Illustrations/tela4.png, id=111, 1565.85pt x 1027.84pt>
+<Illustrations/tela4.png, id=159, 1565.85pt x 1027.84pt>
 File: Illustrations/tela4.png Graphic file (type png)
 <use Illustrations/tela4.png>
-Package pdftex.def Info: Illustrations/tela4.png  used on input line 118.
+Package pdftex.def Info: Illustrations/tela4.png  used on input line 103.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
  [12 <./Illustrations/tela2.png> <./Illustrations/tela3.png>]
-<Illustrations/tela5.png, id=121, 1565.85pt x 1027.84pt>
+<Illustrations/tela5.png, id=169, 1565.85pt x 1027.84pt>
 File: Illustrations/tela5.png Graphic file (type png)
 <use Illustrations/tela5.png>
-Package pdftex.def Info: Illustrations/tela5.png  used on input line 130.
+Package pdftex.def Info: Illustrations/tela5.png  used on input line 113.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
-<Illustrations/tela6.png, id=124, 1565.85pt x 1027.84pt>
+<Illustrations/tela6.png, id=172, 1565.85pt x 1027.84pt>
 File: Illustrations/tela6.png Graphic file (type png)
 <use Illustrations/tela6.png>
-Package pdftex.def Info: Illustrations/tela6.png  used on input line 142.
+Package pdftex.def Info: Illustrations/tela6.png  used on input line 123.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
  [13 <./Illustrations/tela4.png> <./Illustrations/tela5.png>]
-<Illustrations/tela7.png, id=135, 1565.85pt x 1025.8325pt>
+<Illustrations/tela7.png, id=183, 1565.85pt x 1025.8325pt>
 File: Illustrations/tela7.png Graphic file (type png)
 <use Illustrations/tela7.png>
-Package pdftex.def Info: Illustrations/tela7.png  used on input line 154.
+Package pdftex.def Info: Illustrations/tela7.png  used on input line 133.
 (pdftex.def)             Requested size: 348.26233pt x 228.14136pt.
-<Illustrations/tela8.png, id=137, 1565.85pt x 1027.84pt>
+<Illustrations/tela8.png, id=185, 1565.85pt x 1027.84pt>
 File: Illustrations/tela8.png Graphic file (type png)
 <use Illustrations/tela8.png>
-Package pdftex.def Info: Illustrations/tela8.png  used on input line 166.
+Package pdftex.def Info: Illustrations/tela8.png  used on input line 143.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
  [14 <./Illustrations/tela6.png> <./Illustrations/tela7.png>]
-<Illustrations/tela9.png, id=147, 1565.85pt x 1027.84pt>
+<Illustrations/tela9.png, id=195, 1565.85pt x 1027.84pt>
 File: Illustrations/tela9.png Graphic file (type png)
 <use Illustrations/tela9.png>
-Package pdftex.def Info: Illustrations/tela9.png  used on input line 178.
+Package pdftex.def Info: Illustrations/tela9.png  used on input line 153.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
-) (Topicos/conclusao.tex)
-
-LaTeX Warning: Empty bibliography on input line 84.
-
-[15 <./Illustrations/tela8.png> <./Illustrations/tela9.png>] (fatec-template.aux
-Package cleveref Info: loaded `brazilian' language definitions on input line 11.
-Package cleveref Info: loaded `brazilian' language definitions on input line 12.
+) (Topicos/conclusao.tex) [15 <./Illustrations/tela8.png> <./Illustrations/tela9.png>]
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 84.
+ (C:\Users\giova\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+ [16]
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+ [17] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 13.
-Package cleveref Info: loaded `english' language definitions on input line 14.
+Package cleveref Info: loaded `brazilian' language definitions on input line 14.
 Package cleveref Info: loaded `brazilian' language definitions on input line 15.
-Package cleveref Info: loaded `brazilian' language definitions on input line 16.
+Package cleveref Info: loaded `english' language definitions on input line 16.
 Package cleveref Info: loaded `brazilian' language definitions on input line 17.
-Package cleveref Info: loaded `english' language definitions on input line 18.
+Package cleveref Info: loaded `brazilian' language definitions on input line 18.
 Package cleveref Info: loaded `brazilian' language definitions on input line 19.
+Package cleveref Info: loaded `english' language definitions on input line 20.
+Package cleveref Info: loaded `brazilian' language definitions on input line 21.
+Package cleveref Info: loaded `brazilian' language definitions on input line 165.
+Package cleveref Info: loaded `brazilian' language definitions on input line 166.
+Package cleveref Info: loaded `brazilian' language definitions on input line 168.
+Package cleveref Info: loaded `brazilian' language definitions on input line 169.
+Package cleveref Info: loaded `brazilian' language definitions on input line 171.
+Package cleveref Info: loaded `brazilian' language definitions on input line 172.
+Package cleveref Info: loaded `brazilian' language definitions on input line 174.
+Package cleveref Info: loaded `brazilian' language definitions on input line 175.
+Package cleveref Info: loaded `brazilian' language definitions on input line 177.
+Package cleveref Info: loaded `brazilian' language definitions on input line 178.
+Package cleveref Info: loaded `brazilian' language definitions on input line 180.
+Package cleveref Info: loaded `brazilian' language definitions on input line 181.
+Package cleveref Info: loaded `brazilian' language definitions on input line 183.
+Package cleveref Info: loaded `brazilian' language definitions on input line 184.
+Package cleveref Info: loaded `brazilian' language definitions on input line 186.
+Package cleveref Info: loaded `brazilian' language definitions on input line 187.
+Package cleveref Info: loaded `brazilian' language definitions on input line 189.
+Package cleveref Info: loaded `brazilian' language definitions on input line 190.
+Package cleveref Info: loaded `brazilian' language definitions on input line 192.
+Package cleveref Info: loaded `brazilian' language definitions on input line 193.
+Package cleveref Info: loaded `brazilian' language definitions on input line 196.
+Package cleveref Info: loaded `brazilian' language definitions on input line 197.
+Package cleveref Info: loaded `brazilian' language definitions on input line 199.
+Package cleveref Info: loaded `brazilian' language definitions on input line 200.
+Package cleveref Info: loaded `brazilian' language definitions on input line 202.
+Package cleveref Info: loaded `brazilian' language definitions on input line 203.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: A439752F5FAEC83EEACEFC2FE008D099;236.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                fatec-template
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: E56A3286632F70C8B07BED3CA03DA87A;236.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34028 strings out of 474486
- 615479 string characters out of 5743754
- 1946542 words of memory out of 5000000
- 55662 multiletter control sequences out of 15000+600000
- 603494 words of font info for 139 fonts, out of 8000000 for 9000
+ 34238 strings out of 474486
+ 619888 string characters out of 5743754
+ 1959542 words of memory out of 5000000
+ 55835 multiletter control sequences out of 15000+600000
+ 607921 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,1838b,4586s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on fatec-template.pdf (15 pages, 3776195 bytes).
+<C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on fatec-template.pdf (17 pages, 3850453 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 20055 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 23639 words of extra memory for PDF output out of 24883 (max. 10000000)
 
