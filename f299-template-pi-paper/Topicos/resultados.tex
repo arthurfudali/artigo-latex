@@ -11,27 +11,23 @@ Para estruturar o projeto e suas análises, foram criadas as classes Projeto e T
 
 Uma classe essencial é a de Teste Eye Tracking, que permite a coleta dos dados da matriz de foco visual. A partir dessa classe, surgem as classes de Formulário e Mapa de Calor. O formulário registra a satisfação do cliente após o teste, fornecendo dados para a IA, enquanto a classe Mapa de Calor armazena os dados do Eye Tracking, permitindo que UX designers visualizem os pontos de atenção dos usuários e aperfeiçoem o processo de criação das telas.\newline
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
     \caption{Diagrama de Classes}%
-    \label{phot:pg-classes}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/classes1.png}}
-    \usebox0%
+    \label{fig:pg-classes}
+    \includegraphics[width=0.72\linewidth]{Illustrations/classes1.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
-    
-    \vspace{12pt}
+\end{figure}
 
-    \begin{photograph}[H]
-        \centering
-        \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-        \caption{Diagrama de Classes - Continuação}%
-        \label{phot:pg-classes2}
-        \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/classes2.png}}
-        \usebox0%
-        \SourceOrNote{Autoria Própria (2024)}
-        \end{photograph}
+\vspace{12pt}
+
+\begin{figure}[H]
+    \centering
+    \caption{Diagrama de Classes - Continuação}%
+    \label{fig:pg-classes2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/classes2.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
 
 \subsection*{DIAGRAMA DE OBJETOS}
 O diagrama de objetos é uma representação visual que exibe instâncias específicas de classes em um momento particular do sistema, mostrando objetos com seus valores atuais de atributos e as relações entre eles. Diferente do diagrama de classes, que é mais abstrato e define a estrutura geral, o diagrama de objetos detalha uma visão concreta do estado do sistema em determinado instante, facilitando a compreensão das interações entre os objetos e a verificação de como o sistema se comporta na prática.
@@ -42,27 +38,23 @@ A instância proj: Projeto refere-se ao projeto sendo analisado, com atributos c
 
 O teste: TesteEyeTracking registra os dados coletados pelo Eye Tracking, como a matriz de foco e a duração, facilitando a análise do comportamento do usuário. A partir do teste, temos as instâncias form: Formulário e mapa: MapaDeCalor, onde o formulário coleta o feedback do cliente, e o mapa de calor armazena os dados de visualização, oferecendo insights para os UX designers.\newline
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
     \caption{Diagrama de Objetos}%
-    \label{phot:pg-objetos}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/objetos1.png}}
-    \usebox0%
+    \label{fig:pg-objetos}
+    \includegraphics[width=0.72\linewidth]{Illustrations/objetos1.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
-    
-    \vspace{12pt}
+\end{figure}
 
-    \begin{photograph}[H]
-        \centering
-        \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-        \caption{Diagrama de Objetos - Continuação}%
-        \label{phot:pg-objetos2}
-        \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/objetos2.png}}
-        \usebox0%
-        \SourceOrNote{Autoria Própria (2024)}
-        \end{photograph}
+\vspace{12pt}
+
+\begin{figure}[H]
+    \centering
+    \caption{Diagrama de Objetos - Continuação}%
+    \label{fig:pg-objetos2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/objetos2.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
 
 \subsection*{BANCO DE DADOS RELACIONAL}
 Para construir o modelo físico do banco de dados da aplicação foi utilizada a Linguagem de Consulta Estruturada (SQL) e o MySQL.
@@ -72,110 +64,95 @@ A SQL é uma linguagem de programação padronizada usada para gerenciar e manip
 O MySQL, por sua vez, é um sistema de gerenciamento de banco de dados relacional de código aberto, mantido pela Oracle, que utiliza a SQL como base para suas operações. É amplamente usado em aplicações web e pode ser instalado em sistemas operacionais diversos, assim como em servidores de nuvem. \textcite{Amazon}\newline
 
 \subsection*{PROTOTIPAÇÃO DO SOFTWARE UEYE}
-A (\Cref{phot:pg-tela1}) representa a tela inicial do designer. Logo após fazer o login, o mesmo tem acesso a todos os seus projetos podendo decidir qual manipular.
+A (\Cref{fig:pg-tela1}) representa a tela inicial do designer. Logo após fazer o login, o mesmo tem acesso a todos os seus projetos podendo decidir qual manipular.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 1}%
-    \label{phot:pg-tela1}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela1.png}}
-    \usebox0%
+    \caption{Tela 1 - Tela inicial}%
+    \label{fig:pg-tela1}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela1.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-A (\Cref{phot:pg-tela2}) representa a tela que o designer tem acesso ao entrar em um projeto. Nela é possível visualizar as telas pertencentes ao projeto, assim como dois gráficos. O da esquerda representa o número de notas baixas atribuídas a esse projeto de acordo com três quesitos. Por exemplo, o projeto em específico obteve trinta e cinco notas baixas no quesito “Atratividade visual”. Enquanto o gráfico da direita ilustra a taxa de satisfação por avaliação através da IA por períodos de tempo, nesse caso, dias. Além disso é possível clicar nos botões de “Consultar IA” e no de “Eye-tracking”, onde no último é possível escolher entre fazer um novo teste ou visualizar as avalições anteriores de clientes. 
+A (\Cref{fig:pg-tela2}) representa a tela que o designer tem acesso ao entrar em um projeto. Nela é possível visualizar as telas pertencentes ao projeto, assim como dois gráficos. O da esquerda representa o número de notas baixas atribuídas a esse projeto de acordo com três quesitos. Por exemplo, o projeto em específico obteve trinta e cinco notas baixas no quesito “Atratividade visual”. Enquanto o gráfico da direita ilustra a taxa de satisfação por avaliação através da IA por períodos de tempo, nesse caso, dias. Além disso é possível clicar nos botões de “Consultar IA” e no de “Eye-tracking”, onde no último é possível escolher entre fazer um novo teste ou visualizar as avaliações anteriores de clientes.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 2}%
-    \label{phot:pg-tela2}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela2.png}}
-    \usebox0%
+    \caption{Tela 2 - Manipulação do projeto}%
+    \label{fig:pg-tela2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela2.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-Na (\Cref{phot:pg-tela3}), observa-se que, ao clicar em uma das telas do projeto, o usuário pode acessar o histórico de avaliações realizadas pela IA.
+Na (\Cref{fig:pg-tela3}), observa-se que, ao clicar em uma das telas do projeto, o usuário pode acessar o histórico de avaliações realizadas pela IA.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 3}%
-    \label{phot:pg-tela3}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela3.png}}
-    \usebox0%
+    \caption{Tela 3 - Histórico de avaliações da IA}%
+    \label{fig:pg-tela3}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela3.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-Ao clicar no botão “Consultar IA” da \Cref{phot:pg-tela2}, o designer tem acesso a janela (\Cref{phot:pg-tela4}) em que é possível carregar uma tela do projeto para que a IA faça a avaliação da mesma. 
+Ao clicar no botão “Consultar IA” da \Cref{fig:pg-tela2}, o designer tem acesso à janela (\Cref{fig:pg-tela4}) em que é possível carregar uma tela do projeto para que a IA faça a avaliação da mesma.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 4}%
-    \label{phot:pg-tela4}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela4.png}}
-    \usebox0%
+    \caption{Tela 4- Consulta IA}%
+    \label{fig:pg-tela4}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela4.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-A (\Cref{phot:pg-tela5}) ilustra a tela do projeto após receber a avaliação da IA. 
+A (\Cref{fig:pg-tela5}) ilustra a tela do projeto após receber a avaliação da IA.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 5}%
-    \label{phot:pg-tela5}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela5.png}}
-    \usebox0%
+    \caption{Tela 5 - Resposta IA}%
+    \label{fig:pg-tela5}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela5.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-Ao selecionar a opção de fazer um novo teste na (\Cref{phot:pg-tela2}), o cliente deve colocar suas informações pessoais para iniciar o teste (\Cref{phot:pg-tela6}). 
+Ao selecionar a opção de fazer um novo teste na (\Cref{fig:pg-tela2}), o designer deve colocar as informações pessoais do cliente para iniciar o teste (\Cref{fig:pg-tela6}).
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 6}%
-    \label{phot:pg-tela6}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela6.png}}
-    \usebox0%
+    \caption{Tela 6 - Registro do cliente}%
+    \label{fig:pg-tela6}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela6.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-A (\Cref{phot:pg-tela7}) ilustra o design sendo exibido ao cliente enquanto ele faz o Eye Tracking. 
+A (\Cref{fig:pg-tela7}) ilustra o design sendo exibido ao cliente enquanto ele faz o Eye Tracking.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 7}%
-    \label{phot:pg-tela7}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela7.png}}
-    \usebox0%
+    \caption{Tela 7 - Eye Tracking}%
+    \label{fig:pg-tela7}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela7.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-Após o teste, a tela (\Cref{phot:pg-tela8}) a seguir será exibida ao cliente para que ele forneça o devido feedback, dados os quais serão utilizados para retroalimentar a IA. 
+Após o teste, a tela (\Cref{fig:pg-tela8}) a seguir será exibida ao cliente para que ele forneça o devido feedback, dados os quais serão utilizados para retroalimentar a IA.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 8}%
-    \label{phot:pg-tela8}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela8.png}}
-    \usebox0%
+    \caption{Tela 8 - Formulário de feedback}%
+    \label{fig:pg-tela8}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela8.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
 
-Ao selecionar o botão “Ver avaliações” na (\Cref{phot:pg-tela2}), o designer tem acesso ao histórico de avaliações dos clientes, como na imagem a seguir. 
+Ao selecionar o botão “Ver avaliações” na (\Cref{fig:pg-tela2}), o designer tem acesso ao histórico de avaliações dos clientes, como na imagem a seguir.
 
-\begin{photograph}[H]
+\begin{figure}[H]
     \centering
-    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
-    \caption{Tela 9}%
-    \label{phot:pg-tela9}
-    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/tela9.png}}
-    \usebox0%
+    \caption{Tela 9 - Histórico de avaliações dos clientes}%
+    \label{fig:pg-tela9}
+    \includegraphics[width=0.72\linewidth]{Illustrations/tela9.png}
     \SourceOrNote{Autoria Própria (2024)}
-    \end{photograph}
+\end{figure}
+
+\subsection*{MODELO DE NEGÓCIOS}
+
