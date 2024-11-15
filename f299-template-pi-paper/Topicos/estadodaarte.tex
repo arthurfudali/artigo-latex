@@ -9,6 +9,17 @@ Todos os dados gerados por esse processo passaram por uma etapa de normalizaçã
 
 O experimento descrito no artigo envolveu 26 participantes, com a meta de analisar a carga cognitiva em relação à complexidade visual de interfaces de sites. Para o estudo, os pesquisadores selecionaram nove páginas iniciais de websites, distribuídas em três níveis de complexidade visual: baixo, médio e alto. Essas interfaces foram projetadas para induzir diferentes níveis de carga cognitiva nos usuários. As interfaces com maior complexidade visual exigiram mais recursos cognitivos, confirmando uma correlação direta entre a complexidade percebida e a carga cognitiva experimentada.
 
+\begin{photograph}[H]
+    \centering
+    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
+    \caption{Heatmap do uso cognitivo de três complexidades de telas}%
+    \label{phot:}
+    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/georges.png}}
+    \usebox0%
+    \SourceOrNote{GEORGES2016}
+    \end{photograph}
+
+
 Os resultados mostraram que os heatmaps fisiológicos, correlacionaram-se significativamente com as avaliações subjetivas dos usuários em relação à complexidade visual das interfaces. Esses heatmaps se destacaram ao capturar com precisão as áreas com maior demanda cognitiva nas interfaces, superando as formas tradicionais de mapear o rastreamento ocular em termos de precisão na predição da carga cognitiva.
 
 O estudo conduzido por \textcite{SOUZA2021} propõe um framework de avaliação de UX que combina rastreamento ocular, monitoramento de movimentos do mouse e entradas do teclado, além de inteligência artificial, para categorizar o desempenho de usuários em sistemas de informação. Esse framework, chamado AIT2-UX, analisa a experiência do usuário com base em diferentes fontes de dados, fornecendo sobre a usabilidade e interação dos usuários com interfaces digitais.
@@ -18,3 +29,13 @@ Para implementar o AIT2-UX, a coleta de dados foi realizada em um processo que i
 Para a geração dos mapas de calor, foi utilizada a ferramenta T2-UXT, que registrou as interações dos usuários com o site da Receita Federal do Brasil (RFB) ao realizarem tarefas como acesso a serviços do CPF e localização de páginas específicas. Esses mapas de calor revelaram áreas onde os usuários com diferentes níveis de experiência focavam a atenção, mostrando que os usuários menos experientes gastam mais tempo e realizam mais movimentos de busca na interface, sinalizando que o layout do site apresenta dificuldades ao usuário para completar tarefas de forma eficiente.
 
 Os resultados sugerem que o framework AIT2-UX e a ferramenta T2-UXT podem fornecer informações detalhadas para aprimorar o design de interfaces com base no comportamento do usuário. Além disso, o estudo propôs customizações para o site da RFB que poderiam facilitar a navegação, como destacar automaticamente áreas de interesse com base no perfil do usuário. Esses insights demonstram o potencial do framework para melhorar a experiência do usuário em ambientes digitais, oferecendo uma solução que pode ser aplicada para a melhora da experiência de usuários em diferentes sistemas.
+
+\begin{photograph}[H]
+    \centering
+    \SetCaptionWidth{\ifbool{@LayoutA}{0.7}{0.72}\linewidth}
+    \caption{Heatmap do mouse tracking aplicado ao site da RFB}%
+    \label{phot:}
+    \savebox0{\includegraphics[width = \CaptionWidth]{Illustrations/Heat-map-mouse-tracking-a-profile-1-b-profile-2.png}}
+    \usebox0%
+    \SourceOrNote{SOUZA2021}
+    \end{photograph}
