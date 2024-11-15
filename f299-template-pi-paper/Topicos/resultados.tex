@@ -1,4 +1,4 @@
-Embora o sistema Ueye ainda não esteja totalmente operacional, os resultados até o momento evidenciam seu potencial para otimizar a análise preditiva de modelos de UX de alta fidelidade por meio do rastreamento ocular. Testes iniciais serão realizados com as interfaces dos projetos integradores da Fatec, onde alunos participarão ativamente da avaliação, gerando dados que irão alimentar a IA. Em uma fase posterior, a inclusão de clientes finais proporcionará uma coleta de feedback valiosa, permitindo a melhoria contínua do sistema. Os designers poderão consultar a IA para análises ou permitir que os clientes realizem suas próprias avaliações, estabelecendo um ciclo de retroalimentação que impulsionará o desenvolvimento de interfaces mais eficazes.
+Embora o sistema uEye ainda não esteja totalmente operacional, os resultados até o momento evidenciam seu potencial para otimizar a análise preditiva de modelos de UX de alta fidelidade por meio do rastreamento ocular. Testes iniciais serão realizados com as interfaces dos projetos integradores da Fatec, onde alunos participarão ativamente da avaliação, gerando dados que irão alimentar a IA. Em uma fase posterior, a inclusão de clientes finais proporcionará uma coleta de feedback valiosa, permitindo a melhoria contínua do sistema. Os designers poderão consultar a IA para análises ou permitir que os clientes realizem suas próprias avaliações, estabelecendo um ciclo de retroalimentação que impulsionará o desenvolvimento de interfaces mais eficazes.
 
 Apesar de ainda não existir resultados conclusivos, a matriz de rastreamento ocular, que mede o tempo de atenção dos usuários, promete ser um recurso valioso para a criação de heatmaps que indiquem a eficácia das interfaces.\newline
 
@@ -63,7 +63,7 @@ A SQL é uma linguagem de programação padronizada usada para gerenciar e manip
 
 O MySQL, por sua vez, é um sistema de gerenciamento de banco de dados relacional de código aberto, mantido pela Oracle, que utiliza a SQL como base para suas operações. É amplamente usado em aplicações web e pode ser instalado em sistemas operacionais diversos, assim como em servidores de nuvem. \textcite{Amazon}\newline
 
-\subsection*{PROTOTIPAÇÃO DO SOFTWARE UEYE}
+\subsection*{PROTOTIPAÇÃO DO SOFTWARE uEye}
 A (\Cref{fig:pg-tela1}) representa a tela inicial do designer. Logo após fazer o login, o mesmo tem acesso a todos os seus projetos podendo decidir qual manipular.
 
 \begin{figure}[H]
@@ -154,5 +154,69 @@ Ao selecionar o botão “Ver avaliações” na (\Cref{fig:pg-tela2}), o design
     \SourceOrNote{Autoria Própria (2024)}
 \end{figure}
 
-\subsection*{MODELO DE NEGÓCIOS}
 
+\subsection*{ALGORITMO DE ORDENAÇÃO}
+O Merge Sort é um algoritmo de ordenação eficiente baseado na técnica de "dividir para conquistar". Ele divide recursivamente o array original em subarrays menores até que cada um contenha um único elemento, e então realiza a fusão desses subarrays ordenados por meio de um processo denominado merge. A complexidade de tempo do Merge Sort é 
+O(nlogn), o que significa que ele tem uma performance consistente e eficiente, tanto no melhor quanto no pior caso. Essa complexidade é uma das mais eficientes entre os algoritmos de ordenação baseados em comparação.
+
+A seção de código abaixo apresenta a implementação do algoritmo de ordenação Merge Sort em Python. O Merge Sort foi utilizado para ordenar os dados do heatmap, o que garante que a intensidade do foco visual do usuário seja organizada de forma a facilitar a análise posterior.
+
+\noindent
+\textbf{MERGE\_SORT}(arr)\\
+\texttt{SE tamanho(arr) > 1 ENTAO}\\
+\texttt{    meio = tamanho(arr) \textbackslash 2}\\
+\texttt{    esquerda = arr[0 : meio]}\\
+\texttt{    direita = arr[meio : tamanho(arr)]}\\
+\\
+\texttt{    MERGE\_SORT(esquerda)}\\
+\texttt{    MERGE\_SORT(direita)}\\
+\\
+\texttt{    i = 0}\\
+\texttt{    j = 0}\\
+\texttt{    k = 0}\\
+\\
+\texttt{    ENQUANTO i < tamanho(esquerda) E j < tamanho(direita) FACA}\\
+\texttt{        SE esquerda[i] < direita[j] ENTAO}\\
+\texttt{            arr[k] = esquerda[i]}\\
+\texttt{            i = i + 1}\\
+\texttt{        SENAO}\\
+\texttt{            arr[k] \textbackslash leftarrow direita[j]}\\
+\texttt{            j = j + 1}\\
+\texttt{        FIM SE}\\
+\texttt{        k = k + 1}\\
+\texttt{    FIM ENQUANTO}\\
+\\
+\texttt{    ENQUANTO i < tamanho(esquerda) FACA}\\
+\texttt{        arr[k] = esquerda[i]}\\
+\texttt{        i = i + 1}\\
+\texttt{        k = k + 1}\\
+\texttt{    FIM ENQUANTO}\\
+\\
+\texttt{    ENQUANTO j < tamanho(direita) FACA}\\
+\texttt{        arr[k] = direita[j]}\\
+\texttt{        j = j + 1}\\
+\texttt{        k = k + 1}\\
+\texttt{    FIM ENQUANTO}\\
+\texttt{FIM SE}
+
+A análise assintótica do Merge Sort visa entender seu comportamento em termos de tempo e espaço à medida que o tamanho da entrada cresce. A seguir, é apresentado um desdobramento do algoritmo para explicar como ele pode ser descrito por meio de uma equação de recursão.
+
+\begin{itemize}
+    \item Divisão: O algoritmo divide o array original em duas metades. Esse processo de divisão implica em uma operação constante de cálculo do meio do array e criação dos subarrays.
+    \item Recursão: Após a divisão, o algoritmo chama a si mesmo recursivamente para ordenar os subarrays. Cada chamada recursiva trabalha em um subarray de tamanho \( \frac{n}{2} \).
+    \item Merge: Após ordenar os subarrays, o Merge Sort realiza o processo de merge, no qual os subarrays ordenados são combinados. O merge compara os elementos dos subarrays e os coloca em ordem, o que exige \( n \) operações.
+\end{itemize}
+
+A equação de recursão que descreve o funcionamento do Merge Sort é dada por:
+
+\[
+\text{merge-sort}(n) = 
+\begin{cases} 
+1 & \text{se } n = 1 \\
+14 \times \left( 2 \times \text{merge-sort}\left(\frac{n}{2}\right) \right) + n & \text{se } n > 1
+\end{cases}
+\]
+
+Na análise assintótica do Merge Sort, o caso base ocorre quando o tamanho do array é igual a 1, e o algoritmo não realiza operações além de retornar. Quando \( n > 1 \), o algoritmo realiza duas chamadas recursivas (uma para o subarray esquerdo e outra para o subarray direito), cada uma lidando com um array de tamanho \( \frac{n}{2} \). Além disso, o processo de merge entre os subarrays exige \( n \) operações.
+
+Embora o número de operações exatas em cada nível da recursão possa variar dependendo da implementação, o fator 14 se refere ao número de instruções executadas por cada chamada recursiva. Esse valor é derivado das operações constantes realizadas no processo de divisão, comparação e atualização dos índices durante o merge. 
