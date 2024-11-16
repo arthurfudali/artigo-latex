@@ -1,6 +1,6 @@
 Embora o sistema uEye ainda não esteja totalmente operacional, os resultados até o momento evidenciam seu potencial para otimizar a análise preditiva de modelos de UX de alta fidelidade por meio do rastreamento ocular. Testes iniciais serão realizados com as interfaces dos projetos integradores da Fatec, onde alunos participarão ativamente da avaliação, gerando dados que irão alimentar a IA. Em uma fase posterior, a inclusão de clientes finais proporcionará uma coleta de feedback valiosa, permitindo a melhoria contínua do sistema. Os designers poderão consultar a IA para análises ou permitir que os clientes realizem suas próprias avaliações, estabelecendo um ciclo de retroalimentação que impulsionará o desenvolvimento de interfaces mais eficazes.
 
-Apesar de ainda não existir resultados conclusivos, a matriz de rastreamento ocular, que mede o tempo de atenção dos usuários, promete ser um recurso valioso para a criação de heatmaps que indiquem a eficácia das interfaces.\newline
+Apesar de ainda não existir resultados conclusivos, a matriz de rastreamento ocular, que mede a intensidade de atenção dos usuários, promete ser um recurso valioso para a criação de heatmaps que indiquem a eficácia das interfaces.\newline
 
 \subsection*{DIAGRAMA DE CLASSES}
 O diagrama de classes é uma representação visual da estrutura de um sistema, descrevendo classes, seus atributos, métodos e os relacionamentos entre elas. Usado principalmente no desenvolvimento orientado a objetos, ele facilita o planejamento e a organização do código ao ilustrar como os componentes interagem, mostrando herança, associações e dependências. Essa visualização ajuda desenvolvedores e analistas a compreender melhor a arquitetura do sistema, promovendo um design mais claro e coeso. \textcite{Lucidchart}
@@ -154,10 +154,29 @@ Ao selecionar o botão “Ver avaliações” na (\Cref{fig:pg-tela2}), o design
     \SourceOrNote{Autoria Própria (2024)}
 \end{figure}
 
+\subsection*{MODELO DE NEGÓCIOS}
+O desenvolvimento do modelo de negócios para o uEye teve como base a metodologia Business Model Canvas, que oferece uma visão ampla e organizada dos elementos essenciais para a viabilidade do projeto. Este modelo foi escolhido por sua capacidade de sintetizar as principais áreas do negócio, permitindo compreender como o uEye pode gerar valor para os designers de UI/UX, além de mapear os recursos necessários, atividades principais e potenciais fluxos de receita.
+
+O Canvas foi construído a partir de uma análise detalhada das necessidades do público-alvo, segmentado como designers de interfaces interessados em otimizar seus projetos com o auxílio de tecnologias como rastreamento ocular e inteligência artificial. Cada elemento do Canvas reflete decisões tomadas para alinhar a proposta de valor do uEye com as expectativas do mercado e com os recursos disponíveis para o projeto.
+
+\begin{figure}[H]
+    \centering
+    \caption{Canvas}%
+    \label{fig:pg-canvas1}
+    \includegraphics[width=0.72\linewidth]{Illustrations/canvas1.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \caption{Canvas - Continuação}%
+    \label{fig:pg-canvas2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/canvas2.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
 
 \subsection*{ALGORITMO DE ORDENAÇÃO}
-O Merge Sort é um algoritmo de ordenação eficiente baseado na técnica de "dividir para conquistar". Ele divide recursivamente o array original em subarrays menores até que cada um contenha um único elemento, e então realiza a fusão desses subarrays ordenados por meio de um processo denominado merge. A complexidade de tempo do Merge Sort é 
-O(nlogn), o que significa que ele tem uma performance consistente e eficiente, tanto no melhor quanto no pior caso. Essa complexidade é uma das mais eficientes entre os algoritmos de ordenação baseados em comparação.
+O Merge Sort é um algoritmo de ordenação eficiente baseado na técnica de "dividir para conquistar". Ele divide recursivamente o array original em subarrays menores até que cada um contenha um único elemento, e então realiza a fusão desses subarrays ordenados por meio de um processo denominado merge. A complexidade de tempo do Merge Sort é O(n * log n), o que significa que ele tem uma performance consistente e eficiente, tanto no melhor quanto no pior caso. Essa complexidade é uma das mais eficientes entre os algoritmos de ordenação baseados em comparação. \textcite{Brunet}
 
 A seção de código abaixo apresenta a implementação do algoritmo de ordenação Merge Sort em Python. O Merge Sort foi utilizado para ordenar os dados do heatmap, o que garante que a intensidade do foco visual do usuário seja organizada de forma a facilitar a análise posterior.
 
@@ -219,4 +238,4 @@ A equação de recursão que descreve o funcionamento do Merge Sort é dada por:
 
 Na análise assintótica do Merge Sort, o caso base ocorre quando o tamanho do array é igual a 1, e o algoritmo não realiza operações além de retornar. Quando \( n > 1 \), o algoritmo realiza duas chamadas recursivas (uma para o subarray esquerdo e outra para o subarray direito), cada uma lidando com um array de tamanho \( \frac{n}{2} \). Além disso, o processo de merge entre os subarrays exige \( n \) operações.
 
-Embora o número de operações exatas em cada nível da recursão possa variar dependendo da implementação, o fator 14 se refere ao número de instruções executadas por cada chamada recursiva. Esse valor é derivado das operações constantes realizadas no processo de divisão, comparação e atualização dos índices durante o merge. 
+O fator 14 refere-se ao número de linhas da matriz em que o algoritmo é executado, representando a dimensão do problema em um contexto específico. Em termos práticos, isso significa que o Merge Sort realiza suas operações de divisão, recursão e mesclagem em cada uma dessas 14 linhas, impactando diretamente o custo computacional total do algoritmo.
