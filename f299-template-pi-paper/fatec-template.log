@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  16 NOV 2024 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  17 NOV 2024 16:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1303,106 +1303,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-<Illustrations/classes1.png, id=121, 1350.54562pt x 546.54187pt>
-File: Illustrations/classes1.png Graphic file (type png)
-<use Illustrations/classes1.png>
-Package pdftex.def Info: Illustrations/classes1.png  used on input line 18.
-(pdftex.def)             Requested size: 348.26233pt x 140.93pt.
+<Illustrations/python1.png, id=119, 1444.64719pt x 812.28468pt>
+File: Illustrations/python1.png Graphic file (type png)
+<use Illustrations/python1.png>
+Package pdftex.def Info: Illustrations/python1.png  used on input line 18.
+(pdftex.def)             Requested size: 348.26233pt x 195.81992pt.
 [9]
-<Illustrations/classes2.png, id=130, 1320.43312pt x 542.77782pt>
-File: Illustrations/classes2.png Graphic file (type png)
-<use Illustrations/classes2.png>
-Package pdftex.def Info: Illustrations/classes2.png  used on input line 28.
-(pdftex.def)             Requested size: 348.26233pt x 143.1563pt.
-
+<Illustrations/python2.png, id=128, 1165.35374pt x 708.39656pt>
+File: Illustrations/python2.png Graphic file (type png)
+<use Illustrations/python2.png>
+Package pdftex.def Info: Illustrations/python2.png  used on input line 28.
+(pdftex.def)             Requested size: 348.26233pt x 211.6991pt.
+ [10 <./Illustrations/python1.png> <./Illustrations/python2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<Illustrations/objetos1.png, id=131, 1307.63531pt x 493.0922pt>
-File: Illustrations/objetos1.png Graphic file (type png)
-<use Illustrations/objetos1.png>
-Package pdftex.def Info: Illustrations/objetos1.png  used on input line 45.
-(pdftex.def)             Requested size: 348.26233pt x 131.3234pt.
-[10 <./Illustrations/classes1.png> <./Illustrations/classes2.png>]
-<Illustrations/objetos2.png, id=141, 1335.48938pt x 475.7775pt>
-File: Illustrations/objetos2.png Graphic file (type png)
-<use Illustrations/objetos2.png>
-Package pdftex.def Info: Illustrations/objetos2.png  used on input line 55.
-(pdftex.def)             Requested size: 348.26233pt x 124.06947pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+<Illustrations/classes1.png, id=141, 1350.54562pt x 546.54187pt>
+File: Illustrations/classes1.png Graphic file (type png)
+<use Illustrations/classes1.png>
+Package pdftex.def Info: Illustrations/classes1.png  used on input line 45.
+(pdftex.def)             Requested size: 348.26233pt x 140.93pt.
+<Illustrations/classes2.png, id=142, 1320.43312pt x 542.77782pt>
+File: Illustrations/classes2.png Graphic file (type png)
+<use Illustrations/classes2.png>
+Package pdftex.def Info: Illustrations/classes2.png  used on input line 55.
+(pdftex.def)             Requested size: 348.26233pt x 143.1563pt.
+[11 <./Illustrations/classes1.png> <./Illustrations/classes2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-<Illustrations/tela1.png, id=145, 1565.85pt x 1382.16376pt>
+<Illustrations/objetos1.png, id=152, 1307.63531pt x 493.0922pt>
+File: Illustrations/objetos1.png Graphic file (type png)
+<use Illustrations/objetos1.png>
+Package pdftex.def Info: Illustrations/objetos1.png  used on input line 72.
+(pdftex.def)             Requested size: 348.26233pt x 131.3234pt.
+<Illustrations/objetos2.png, id=153, 1335.48938pt x 475.7775pt>
+File: Illustrations/objetos2.png Graphic file (type png)
+<use Illustrations/objetos2.png>
+Package pdftex.def Info: Illustrations/objetos2.png  used on input line 82.
+(pdftex.def)             Requested size: 348.26233pt x 124.06947pt.
+[12 <./Illustrations/objetos1.png> <./Illustrations/objetos2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+<Illustrations/tela1.png, id=166, 1565.85pt x 1382.16376pt>
 File: Illustrations/tela1.png Graphic file (type png)
 <use Illustrations/tela1.png>
-Package pdftex.def Info: Illustrations/tela1.png  used on input line 73.
+Package pdftex.def Info: Illustrations/tela1.png  used on input line 100.
 (pdftex.def)             Requested size: 348.26233pt x 307.3881pt.
-[11 <./Illustrations/objetos1.png> <./Illustrations/objetos2.png>]
-<Illustrations/tela2.png, id=158, 1565.85pt x 1139.25626pt>
+<Illustrations/tela2.png, id=168, 1565.85pt x 1139.25626pt>
 File: Illustrations/tela2.png Graphic file (type png)
 <use Illustrations/tela2.png>
-Package pdftex.def Info: Illustrations/tela2.png  used on input line 83.
+Package pdftex.def Info: Illustrations/tela2.png  used on input line 110.
 (pdftex.def)             Requested size: 348.26233pt x 253.36638pt.
- [12 <./Illustrations/tela1.png>]
-<Illustrations/tela3.png, id=166, 1565.85pt x 1027.84pt>
+[13 <./Illustrations/tela1.png>]
+<Illustrations/tela3.png, id=179, 1565.85pt x 1027.84pt>
 File: Illustrations/tela3.png Graphic file (type png)
 <use Illustrations/tela3.png>
-Package pdftex.def Info: Illustrations/tela3.png  used on input line 93.
+Package pdftex.def Info: Illustrations/tela3.png  used on input line 120.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
-<Illustrations/tela4.png, id=169, 1565.85pt x 1027.84pt>
+<Illustrations/tela4.png, id=182, 1565.85pt x 1027.84pt>
 File: Illustrations/tela4.png Graphic file (type png)
 <use Illustrations/tela4.png>
-Package pdftex.def Info: Illustrations/tela4.png  used on input line 103.
+Package pdftex.def Info: Illustrations/tela4.png  used on input line 130.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
- [13 <./Illustrations/tela2.png> <./Illustrations/tela3.png>]
-<Illustrations/tela5.png, id=180, 1565.85pt x 1027.84pt>
+ [14 <./Illustrations/tela2.png> <./Illustrations/tela3.png>]
+<Illustrations/tela5.png, id=192, 1565.85pt x 1027.84pt>
 File: Illustrations/tela5.png Graphic file (type png)
 <use Illustrations/tela5.png>
-Package pdftex.def Info: Illustrations/tela5.png  used on input line 113.
+Package pdftex.def Info: Illustrations/tela5.png  used on input line 140.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
-<Illustrations/tela6.png, id=183, 1565.85pt x 1027.84pt>
+<Illustrations/tela6.png, id=195, 1565.85pt x 1027.84pt>
 File: Illustrations/tela6.png Graphic file (type png)
 <use Illustrations/tela6.png>
-Package pdftex.def Info: Illustrations/tela6.png  used on input line 123.
+Package pdftex.def Info: Illustrations/tela6.png  used on input line 150.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
- [14 <./Illustrations/tela4.png> <./Illustrations/tela5.png>]
-<Illustrations/tela7.png, id=193, 1565.85pt x 1025.8325pt>
+ [15 <./Illustrations/tela4.png> <./Illustrations/tela5.png>]
+<Illustrations/tela7.png, id=205, 1565.85pt x 1025.8325pt>
 File: Illustrations/tela7.png Graphic file (type png)
 <use Illustrations/tela7.png>
-Package pdftex.def Info: Illustrations/tela7.png  used on input line 133.
+Package pdftex.def Info: Illustrations/tela7.png  used on input line 160.
 (pdftex.def)             Requested size: 348.26233pt x 228.14136pt.
-<Illustrations/tela8.png, id=195, 1565.85pt x 1027.84pt>
+<Illustrations/tela8.png, id=207, 1565.85pt x 1027.84pt>
 File: Illustrations/tela8.png Graphic file (type png)
 <use Illustrations/tela8.png>
-Package pdftex.def Info: Illustrations/tela8.png  used on input line 143.
+Package pdftex.def Info: Illustrations/tela8.png  used on input line 170.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
- [15 <./Illustrations/tela6.png> <./Illustrations/tela7.png>]
-<Illustrations/tela9.png, id=205, 1565.85pt x 1027.84pt>
+ [16 <./Illustrations/tela6.png> <./Illustrations/tela7.png>]
+<Illustrations/tela9.png, id=217, 1565.85pt x 1027.84pt>
 File: Illustrations/tela9.png Graphic file (type png)
 <use Illustrations/tela9.png>
-Package pdftex.def Info: Illustrations/tela9.png  used on input line 153.
+Package pdftex.def Info: Illustrations/tela9.png  used on input line 180.
 (pdftex.def)             Requested size: 348.26233pt x 228.58781pt.
- [16 <./Illustrations/tela8.png> <./Illustrations/tela9.png>]
-<Illustrations/canvas1.png, id=214, 979.40906pt x 686.565pt>
+ [17 <./Illustrations/tela8.png> <./Illustrations/tela9.png>]
+<Illustrations/canvas1.png, id=226, 979.40906pt x 686.565pt>
 File: Illustrations/canvas1.png Graphic file (type png)
 <use Illustrations/canvas1.png>
-Package pdftex.def Info: Illustrations/canvas1.png  used on input line 166.
+Package pdftex.def Info: Illustrations/canvas1.png  used on input line 193.
 (pdftex.def)             Requested size: 348.26233pt x 244.12514pt.
-<Illustrations/canvas2.png, id=215, 977.15062pt x 685.8122pt>
+<Illustrations/canvas2.png, id=227, 977.15062pt x 685.8122pt>
 File: Illustrations/canvas2.png Graphic file (type png)
 <use Illustrations/canvas2.png>
-Package pdftex.def Info: Illustrations/canvas2.png  used on input line 174.
+Package pdftex.def Info: Illustrations/canvas2.png  used on input line 201.
 (pdftex.def)             Requested size: 348.26233pt x 244.43301pt.
- [17 <./Illustrations/canvas1.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 185.
+ [18 <./Illustrations/canvas1.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 212.
  (C:\Users\giova\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1411,32 +1419,42 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--220
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--220
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--220
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--220
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--220
+Underfull \hbox (badness 10000) in paragraph at lines 210--247
 
  []
 
-[18 <./Illustrations/canvas2.png>]
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 224.
+[19 <./Illustrations/canvas2.png>]
+<Illustrations/desordenado.png, id=246, 1379.90532pt x 132.495pt>
+File: Illustrations/desordenado.png Graphic file (type png)
+<use Illustrations/desordenado.png>
+Package pdftex.def Info: Illustrations/desordenado.png  used on input line 254.
+(pdftex.def)             Requested size: 348.26233pt x 33.43904pt.
+<Illustrations/ordenado.png, id=247, 1381.41093pt x 139.27031pt>
+File: Illustrations/ordenado.png Graphic file (type png)
+<use Illustrations/ordenado.png>
+Package pdftex.def Info: Illustrations/ordenado.png  used on input line 262.
+(pdftex.def)             Requested size: 348.26233pt x 35.11075pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 270.
  (C:\Users\giova\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1444,11 +1462,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (Topicos/conclusao.tex [19{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}])
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
- [20]
+ [20{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./Illustrations/desordenado.png> <./Illustrations/ordenado.png>]) (Topicos/conclusao.tex [21])
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
@@ -1463,12 +1477,7 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
- [21]
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+ [22]
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
@@ -1477,7 +1486,15 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
- [22] (fatec-template.aux
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+ [23] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 13.
 Package cleveref Info: loaded `brazilian' language definitions on input line 14.
 Package cleveref Info: loaded `brazilian' language definitions on input line 15.
@@ -1487,14 +1504,6 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 18.
 Package cleveref Info: loaded `brazilian' language definitions on input line 19.
 Package cleveref Info: loaded `english' language definitions on input line 20.
 Package cleveref Info: loaded `brazilian' language definitions on input line 21.
-Package cleveref Info: loaded `brazilian' language definitions on input line 187.
-Package cleveref Info: loaded `brazilian' language definitions on input line 188.
-Package cleveref Info: loaded `brazilian' language definitions on input line 190.
-Package cleveref Info: loaded `brazilian' language definitions on input line 191.
-Package cleveref Info: loaded `brazilian' language definitions on input line 193.
-Package cleveref Info: loaded `brazilian' language definitions on input line 194.
-Package cleveref Info: loaded `brazilian' language definitions on input line 196.
-Package cleveref Info: loaded `brazilian' language definitions on input line 197.
 Package cleveref Info: loaded `brazilian' language definitions on input line 199.
 Package cleveref Info: loaded `brazilian' language definitions on input line 200.
 Package cleveref Info: loaded `brazilian' language definitions on input line 202.
@@ -1517,6 +1526,14 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 226
 Package cleveref Info: loaded `brazilian' language definitions on input line 227.
 Package cleveref Info: loaded `brazilian' language definitions on input line 229.
 Package cleveref Info: loaded `brazilian' language definitions on input line 230.
+Package cleveref Info: loaded `brazilian' language definitions on input line 232.
+Package cleveref Info: loaded `brazilian' language definitions on input line 233.
+Package cleveref Info: loaded `brazilian' language definitions on input line 235.
+Package cleveref Info: loaded `brazilian' language definitions on input line 236.
+Package cleveref Info: loaded `brazilian' language definitions on input line 238.
+Package cleveref Info: loaded `brazilian' language definitions on input line 239.
+Package cleveref Info: loaded `brazilian' language definitions on input line 241.
+Package cleveref Info: loaded `brazilian' language definitions on input line 242.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1527,23 +1544,23 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: 202240EE1436F8368830F8FD4C596850;236.
+(rerunfilecheck)             Checksum: DEC2324FDE9AB54CE8E00ADBE8945B41;236.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34367 strings out of 474486
- 622892 string characters out of 5743754
- 1959542 words of memory out of 5000000
- 55927 multiletter control sequences out of 15000+600000
+ 34410 strings out of 474486
+ 624090 string characters out of 5743754
+ 1963542 words of memory out of 5000000
+ 55963 multiletter control sequences out of 15000+600000
  619196 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,1838b,4586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (22 pages, 4514049 bytes).
+Output written on fatec-template.pdf (23 pages, 5530018 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 29803 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 29823 words of extra memory for PDF output out of 29859 (max. 10000000)
 

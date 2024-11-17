@@ -2,6 +2,33 @@ Embora o sistema uEye ainda não esteja totalmente operacional, os resultados at
 
 Apesar de ainda não existir resultados conclusivos, a matriz de rastreamento ocular, que mede a intensidade de atenção dos usuários, promete ser um recurso valioso para a criação de heatmaps que indiquem a eficácia das interfaces.\newline
 
+\subsection*{REASTREAMENTO OCULAR EM JAVA}
+
+\subsection*{REASTREAMENTO OCULAR EM PYTHON}
+A seguir, é apresentado o funcionamento das telas do sistema de rastreamento ocular, desenvolvido utilizando Python, OpenCV e MediaPipe. As telas exibidas fazem parte da interface interativa destinada ao cliente do designer, que participará do teste avaliando uma interface ou design específico.
+
+O objetivo dessas telas é oferecer uma experiência intuitiva para o cliente enquanto capturam dados precisos sobre os movimentos oculares. Esses dados serão posteriormente processados para gerar heatmaps e outras análises, que servirão como insumos para aprimorar a usabilidade e eficiência dos designs avaliados.
+
+A figura a seguir ilustra a primeira tela apresentada ao cliente. Nela, é exibido um exemplo do design ou interface que está sendo analisado pelo usuário.
+
+\begin{figure}[H]
+    \centering
+    \caption{Tela 1 - Rastreamento ocular}%
+    \label{fig:pg-telaPython1}
+    \includegraphics[width=0.72\linewidth]{Illustrations/python1.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
+
+A próxima figura apresenta o heatmap gerado após o processo de rastreamento ocular sobre a tela mencionada.
+
+\begin{figure}[H]
+    \centering
+    \caption{Tela 2 - heatmap}%
+    \label{fig:pg-telaPython2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/python2.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
+
 \subsection*{DIAGRAMA DE CLASSES}
 O diagrama de classes é uma representação visual da estrutura de um sistema, descrevendo classes, seus atributos, métodos e os relacionamentos entre elas. Usado principalmente no desenvolvimento orientado a objetos, ele facilita o planejamento e a organização do código ao ilustrar como os componentes interagem, mostrando herança, associações e dependências. Essa visualização ajuda desenvolvedores e analistas a compreender melhor a arquitetura do sistema, promovendo um design mais claro e coeso. \textcite{Lucidchart}
 
@@ -217,6 +244,25 @@ A seção de código abaixo apresenta a implementação do algoritmo de ordenaç
 \texttt{        k = k + 1}\\
 \texttt{    FIM ENQUANTO}\\
 \texttt{FIM SE}
+
+As figuras a seguir ilustram a matriz de rastreamento ocular, que armazena valores correspondentes ao tempo de foco do usuário. A primeira figura apresenta a matriz gerada antes da aplicação do algoritmo Merge Sort, enquanto a segunda mostra a matriz após a ordenação dos valores utilizando o Merge Sort.
+
+\begin{figure}[H]
+    \centering
+    \caption{Matrzi de rastreamento ocular não ordenada}%
+    \label{fig:pg-mergesort}
+    \includegraphics[width=0.72\linewidth]{Illustrations/desordenado.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \caption{Matrzi de rastreamento ocular ordenada}%
+    \label{fig:pg-mergesort2}
+    \includegraphics[width=0.72\linewidth]{Illustrations/ordenado.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
+
 
 A análise assintótica do Merge Sort visa entender seu comportamento em termos de tempo e espaço à medida que o tamanho da entrada cresce. A seguir, é apresentado um desdobramento do algoritmo para explicar como ele pode ser descrito por meio de uma equação de recursão.
 
