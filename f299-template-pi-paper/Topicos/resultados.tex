@@ -3,6 +3,17 @@ Embora o sistema uEye ainda não esteja totalmente operacional, os resultados at
 Apesar de ainda não existir resultados conclusivos, a matriz de rastreamento ocular, que mede a intensidade de atenção dos usuários, promete ser um recurso valioso para a criação de heatmaps que indiquem a eficácia das interfaces.\newline
 
 \subsection*{REASTREAMENTO OCULAR EM JAVA}
+A seguir, o protótipo apresentado na imagem demonstra o funcionamento do sistema de rastreamento ocular desenvolvido em Java, utilizando a biblioteca OpenCV. A tela exibida representa a captura em tempo real da câmera do computador do usuário, com sobreposições visuais geradas pelo sistema para identificar a área do rosto e as pupilas.
+
+O sistema realiza a detecção facial ao delimitar o rosto do usuário com um retângulo, enquanto círculos sobre as pupilas indicam o rastreamento preciso da direção do olhar.
+
+\begin{figure}[H]
+    \centering
+    \caption{Prototipo em Java}%
+    \label{fig:pg-telaJava1}
+    \includegraphics[width=0.72\linewidth]{Illustrations/java1.png}
+    \SourceOrNote{Autoria Própria (2024)}
+\end{figure}
 
 \subsection*{REASTREAMENTO OCULAR EM PYTHON}
 A seguir, é apresentado o funcionamento das telas do sistema de rastreamento ocular, desenvolvido utilizando Python, OpenCV e MediaPipe. As telas exibidas fazem parte da interface interativa destinada ao cliente do designer, que participará do teste avaliando uma interface ou design específico.
