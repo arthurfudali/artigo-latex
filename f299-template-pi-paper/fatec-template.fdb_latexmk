@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1731871008.36081 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731871039.44251 0
+["biber fatec-template"] 1731871008.36081 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731938510.85498 0
   "fatec-article.bib" 1731869634 10658 77a794bc19acc7a6b875a12bf56cb013 ""
-  "fatec-template.bcf" 1731871038 115691 fefa256095ead31aaa0dbec82feaa121 "pdflatex"
+  "fatec-template.bcf" 1731938509 115691 fefa256095ead31aaa0dbec82feaa121 "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1731871025.64385 "c:/artigo-latex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731871039.44361 0
+["pdflatex"] 1731938485.72649 "c:/artigo-latex/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731938510.85851 0
   "C:/Users/giova/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731866597 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/giova/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730048657 24225047 22c0cfe9e657f8487c5195db7e977911 ""
   "C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -228,7 +228,7 @@
   "Illustrations/tela7.png" 1731869634 92356 24239f41fb2f8e172a19ab39d026e02d ""
   "Illustrations/tela8.png" 1731869634 684622 3ee59bf1c6bc5b16adbca913fd4b4cdf ""
   "Illustrations/tela9.png" 1731869634 326294 cbbdd4088dbcf655f83d5a9d092a52be ""
-  "Topicos/conclusao.tex" 1731869634 3315 bd4b8c57a02b0c4b0aef6180c411e57b ""
+  "Topicos/conclusao.tex" 1731938448 4285 0bb6976fffbd488e6c13c2e025fec8b4 ""
   "Topicos/estadodaarte.tex" 1731869634 5889 ac6c6edcfa31f2cc1814aeadcacd223b ""
   "Topicos/introducao.tex" 1731869634 5959 0d86f942df89e7c1ffb1af7556e1187c ""
   "Topicos/metodologia.tex" 1731869634 11229 0aeefc13add92d7a945ab04fdc6c244a ""
@@ -236,10 +236,10 @@
   "Topicos/resultados.tex" 1731870974 18196 eb9fdd91b941bc7d0d0e66c2acdc9ca3 ""
   "c:/artigo-latex/f299-template-pi-paper/fatec-template.tex" 1731869634 5983 7b96892d0a76c7dd9eb0997a98abd150 ""
   "fatec-article.sty" 1731869634 46741 e995b8fd528d0fd725971ccc75c6ce07 ""
-  "fatec-template.aux" 1731871037 12910 9955e08bc023a4f15348d80353360ac1 "pdflatex"
+  "fatec-template.aux" 1731938505 12910 b56499c40638cd2e0a7221ffe7e029e8 "pdflatex"
   "fatec-template.bbl" 1731871011 25825 e098b351859404ef31e425ba0ba32673 "biber fatec-template"
-  "fatec-template.out" 1731871038 236 dec2324fde9ab54ce8e00adbe8945b41 "pdflatex"
-  "fatec-template.run.xml" 1731871038 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
+  "fatec-template.out" 1731938509 236 dec2324fde9ab54ce8e00adbe8945b41 "pdflatex"
+  "fatec-template.run.xml" 1731938509 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
   "fatec-template.tex" 1731869634 5983 7b96892d0a76c7dd9eb0997a98abd150 ""
   (generated)
   "fatec-template.aux"

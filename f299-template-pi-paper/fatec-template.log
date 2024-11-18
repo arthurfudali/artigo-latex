@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  17 NOV 2024 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.27)  18 NOV 2024 11:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,10 +1473,6 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
-Package cleveref Info: loaded `brazilian' language definitions on input line 85.
  [22]
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
@@ -1494,7 +1490,12 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 Package cleveref Info: loaded `brazilian' language definitions on input line 85.
- [23] (fatec-template.aux
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+ [23]
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+ [24] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 13.
 Package cleveref Info: loaded `brazilian' language definitions on input line 14.
 Package cleveref Info: loaded `brazilian' language definitions on input line 15.
@@ -1550,17 +1551,17 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34410 strings out of 474486
- 624090 string characters out of 5743754
- 1963542 words of memory out of 5000000
- 55963 multiletter control sequences out of 15000+600000
+ 34417 strings out of 474486
+ 624193 string characters out of 5743754
+ 1962542 words of memory out of 5000000
+ 55969 multiletter control sequences out of 15000+600000
  619196 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,1838b,4586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/giova/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (23 pages, 5530018 bytes).
+Output written on fatec-template.pdf (24 pages, 5531584 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
+ 383 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  29823 words of extra memory for PDF output out of 29859 (max. 10000000)
 
